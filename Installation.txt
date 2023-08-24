@@ -1,0 +1,7 @@
+sudo tar -xvzf ./scrt-sfx-8.7.3.2279.ubuntu19-64.tar.gz -C /usr/share/SecureCRT
+#wget http://download.boll.me/securecrt_linux_crack.pl
+sudo ln -sf /usr/share/SecureCRT/SecureCRT /usr/bin/SecureCRT
+sudo perl securecrt_linux_crack.pl /usr/bin/SecureCRT
+
+#Now, Enter the Information given in terminal from Above Command
+#settings.xml -> settings imported from secureCrt
